@@ -12,19 +12,20 @@ PROVIDERSV4="
 4.2.2.1#level3 
 8.8.8.8#google 
 9.9.9.9#quad9 
-80.80.80.80#freenom 
-208.67.222.123#opendns 
-199.85.126.20#norton 
-185.228.168.168#cleanbrowsing 
-77.88.8.7#yandex 
 176.103.130.132#adguard 
-156.154.70.3#neustar 
-8.26.56.26#comodo
 45.90.28.202#nextdns
 223.5.5.5#alidns
 180.76.76.76#baidu
 119.29.29.29#dnspod
 "
+
+# 80.80.80.80#freenom 
+# 208.67.222.123#opendns 
+# 199.85.126.20#norton 
+# 185.228.168.168#cleanbrowsing 
+# 77.88.8.7#yandex 
+# 156.154.70.3#neustar 
+# 8.26.56.26#comodo
 
 PROVIDERSV6="
 2606:4700:4700::1111#cloudflare-v6
