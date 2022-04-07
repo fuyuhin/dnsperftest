@@ -21,6 +21,9 @@ PROVIDERSV4="
 156.154.70.3#neustar 
 8.26.56.26#comodo
 45.90.28.202#nextdns
+223.5.5.5#alidns
+180.76.76.76#baidu
+119.29.29.29#dnspod
 "
 
 PROVIDERSV6="
